@@ -1,0 +1,6 @@
+The evaluation is based on Mean Square error.
+As we know that Monte carlo gives the Best fit which reduces the mean Square error between esitmated and actual.
+I implemented the Batch update - Monte carlo every visit algorithm.
+My algorithm gives error less than 0.001 for both of the given episodes.
+
+
