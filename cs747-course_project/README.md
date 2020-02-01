@@ -1,2 +1,2 @@
 # CS747_Project
-Pyraminx solver using RL
+Go through the report pdf file for the problem statement
